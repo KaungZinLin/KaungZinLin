@@ -1,5 +1,5 @@
 # 💫 About Me
-🥽 I'm currently working on Swiftszig - a unique AI-powered daily planner<br>🪴 I'm currently learning SwiftUI.<br>🏠 Current City and Hometown: Rangoon, Burma<br>🇩🇪 Currently Learning: German
+🥽 I'm currently working on Swiftszig - a unique AI-powered daily planner<br>🪴 I'm currently learning SwiftUI.<br><br>🏠 Current City and Hometown: Rangoon, Burma<br><br>🇩🇪 Currently Learning: German
 
 
 ## 🌐 Socials
