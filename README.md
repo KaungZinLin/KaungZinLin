@@ -1,5 +1,5 @@
 # 💫 About Me
-🥽 I'm currently working on Swiftszig - a unique AI-powered daily planner<br>🪴 I'm currently learning SwiftUI.
+🥽 I'm currently working on Swiftszig - a unique AI-powered daily planner<br>🪴 I'm currently learning SwiftUI.<br>🏠 Current City: Rangoon, Burma<br>🇫🇮Next City: Vaasa, Finland
 
 
 ## 🌐 Socials
