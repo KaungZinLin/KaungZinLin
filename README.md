@@ -1,5 +1,5 @@
 # 💫 About Me
-🥽 I'm currently working on SuperScan - a simplea and easy-to-use document scanner with sycn and support for all platforms<br>🪴 I'm currently learning fLUTTER.<br><br>🏠 Current City and Hometown: Rangoon, Burma<br><br>🇩🇪 Currently Learning: German
+🥽 I'm currently working on SuperScan - a simple and easy-to-use document scanner with sync across all platforms<br>🪴 I'm currently learning Flutter.<br><br>🏠 Current City and Hometown: Rangoon, Burma<br><br>🇩🇪 Currently Learning: German
 
 
 ## 🌐 Socials
